@@ -1,0 +1,1 @@
+Python is a great asset to have in a developer's toolkit of languages. Although considered a scripting language, Python can create graphical user interfaces (GUIs) for your applications. GUI controls can be laid out programmatically or organized using a rapid application development (RAD) tool such as Glade. Come see how to build GUIs with Python and Glade. 

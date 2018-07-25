@@ -1,0 +1,8 @@
+Build GUIs with Python and Glade
+
+Python gets a lot of attention these days, but many still see it as a scripting language for command line applications. Or do they? A recent survey reveals approximately 25% of Python applications being developed include some form of graphical user interface (GUI). Seeing this statistic encouraged me to experiment with my own Python GUI projects. However I quickly learned that choosing to develop a Python GUI was just the first of many decisions that had to be made. This talk walks the audience through the many challenges one faces when building GUIs with Python.
+
+The first step in building GUIs with Python is to consider the target platform. Although it may not be obvious up front, this choice may constrain decisions made later. Next one has to choose a version of Python because the target platform may have both Python2 and Python3. Where to code the selected Python version is the next choice. Developers are often passionate about their editors, but the target platform my dictate the editor choice. Next we have to decide on a GUI toolkit to utilize, since we won't be programming GUI widgets from scratch. Also we have to decide if we plan to layout the GUI widgets programatically, or use a rapid application development (RAD) tool such as Glade. And finally we have to consider how we'll deploy our Python-based GUI application into the field.
+
+The presentation will conclude with code demonstrations using Glade to construct Python GUIs. Time will be allocated for the audience to ask questions about the coding examples presented, as well as my thought process that led me to choose the software development tools used.
+
